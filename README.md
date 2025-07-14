@@ -54,13 +54,13 @@ I'm a passionate full-stack web developer and digital enthusiast, shaping my own
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- ISG1st Educational Platform -->
-  <img src="/mnt/data/IsgistProject.jpg" alt="ISG1st Project" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
+  <img src="assets/IsgistProject.jpg" alt="ISG1st Project" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
 
   <!-- Real-time Chat App -->
-  <img src="/mnt/data/chatSC.png" alt="Chat System" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
+  <img src="assets/chatSC.png" alt="Chat System" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
 
   <!-- E-Facturation System -->
-  <img src="/mnt/data/Dashboard1.png" alt="E-Facturation System" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
+  <img src="assets/ProjectFacturation.png" alt="E-Facturation System" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
 
 </div>
 <!-- END PROJECTS-CARDS -->
