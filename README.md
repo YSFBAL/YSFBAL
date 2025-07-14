@@ -51,7 +51,7 @@ I'm a passionate full-stack web developer and digital enthusiast, shaping my own
 ### 💻 Latest Web Projects
 
 <!-- BEGIN PROJECTS-CARDS -->
-div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- ISG1st Educational Platform -->
   <img src="/mnt/data/IsgistProject.jpg" alt="ISG1st Project" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
