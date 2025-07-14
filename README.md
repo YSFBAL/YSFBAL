@@ -6,17 +6,17 @@ I'm a passionate full-stack web developer and digital enthusiast, shaping my own
    <p align="left">
    <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/youssef-baali/" target="_blank">
-      <img alt="LinkedIn" title="My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img alt="LinkedIn" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 
    <!-- Twitter -->
    <a href="https://x.com/Yooussef512" target="_blank">
-      <img alt="Twitter" title="My Twitter Profile" src="https://custom-icon-badges.demolab.com/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+      <img alt="Twitter" title="My Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
    </a>
 
    <!-- Instagram -->
    <a href="https://www.instagram.com/youssef_baalii/" target="_blank">
-      <img alt="Instagram" title="My Instagram Profile" src="https://custom-icon-badges.demolab.com/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      <img alt="Instagram" title="My Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
    </a>
 
    <!-- Spotify Playlist -->
